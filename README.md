@@ -17,4 +17,4 @@ $ ./composer.phar require gustarus/webulla-yii2-auth:dev-master
 
 ## License
 
-// TODO
+This extension is released under the Apache-2 License. See the bundled `LICENSE.md` for details.
