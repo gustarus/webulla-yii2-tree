@@ -1,0 +1,32 @@
+{
+	"name": "webulla/yii2-tree",
+	"description": "Yii 2 Tree extension",
+	"keywords": ["yii", "yii2", "tree"],
+	"type": "yii2-extension",
+	"license": "Apache",
+	"support": {
+		"issues": "https://github.com/gustarus/webulla-yii2-auth/issues?state=open",
+		"forum": "http://www.yiiframework.com/forum/",
+		"wiki": "http://www.yiiframework.com/wiki/",
+		"source": "https://github.com/gustarus/webulla-yii2-auth"
+	},
+	"authors": [
+		{
+			"name": "gustarus",
+			"email": "gustarus@gmail.com",
+			"homepage": "http://webulla.ru",
+			"role": "Author"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0",
+		"yiisoft/yii2": "*",
+		"yiisoft/yii2-bootstrap": "*",
+		"yiisoft/yii2-composer": "dev-master"
+	},
+	"autoload": {
+		"psr-4": {
+			"wbl\\tree\\": ""
+		}
+	}
+}
